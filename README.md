@@ -8,7 +8,7 @@ Not memory optimised. Uses two sets of graphs, one for the sun and one for the s
 
 The sun's corona and flares graph position is set to 'Circle', useful for a "fixed" camera position.
 
-Change its position to 'Sphere' if a 360 view is desired.
+Change its position to 'Sphere' if a 360 view is desired, and adjust Vector Feild Force settings (particularly Center and Intensity values).
 
 A post processing asset is included for a bloom effect.
 
